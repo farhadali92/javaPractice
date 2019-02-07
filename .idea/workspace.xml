@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b11e086e-72c4-4099-98af-b9ffe804c126" name="Default Changelist" comment="" />
+    <list default="true" id="b11e086e-72c4-4099-98af-b9ffe804c126" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/ForEachLoopPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/ForEachPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/FindMissingNumberFromSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/FindMissingNumberFromSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/JavaCollectionPractice$1Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/JavaCollectionPractice$1Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/JavaCollectionPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/JavaCollectionPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/RemoveJunk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/RemoveJunk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/SmallestAndLargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/SmallestAndLargestNumber.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,64 +24,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/JavaCollectionPractice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#737#747#0" expanded="true" />
-                <marker date="1548698643336" expanded="true" signature="752:1025" ph="..." />
-                <marker date="1548698643336" expanded="true" signature="753:1025" ph="..." />
-                <marker date="1548698643336" expanded="true" signature="1035:1194" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ForEachPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/RemoveJunk.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/FindMissingNumberFromSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="525">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/SmallestAndLargestNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ForEachLoopPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="443">
+              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +69,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,6 +87,9 @@
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/JavaCollectionArrayListPractice/JavaCollectionPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/JavaCollectionPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/SmallestAndLargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/ForEachPractice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LambdaPractice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/ForEachLoopPractice.java" />
       </list>
     </option>
   </component>
@@ -121,49 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -175,12 +126,49 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548701118207" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549543842332" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -197,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallestAndLargestNumber">
+  <component name="RunManager" selected="Application.ForEachLoopPractice">
     <configuration name="FindMissingNumberFromSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPractice.FindMissingNumberFromSequence" />
       <module name="javaPractice" />
@@ -211,34 +199,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ForEachLoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.ForEachLoopPractice" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.ForEachPractice" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaCollectionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPractice.JavaCollectionPractice" />
-      <module name="javaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveJunk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.RemoveJunk" />
-      <module name="javaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.ReverseInteger" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
@@ -265,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEachLoopPractice" />
+        <item itemvalue="Application.ForEachPractice" />
         <item itemvalue="Application.SmallestAndLargestNumber" />
         <item itemvalue="Application.JavaCollectionPractice" />
         <item itemvalue="Application.FindMissingNumberFromSequence" />
-        <item itemvalue="Application.ReverseInteger" />
-        <item itemvalue="Application.RemoveJunk" />
       </list>
     </recent_temporary>
   </component>
@@ -287,10 +275,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26344743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +287,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24222586" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2418813" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,7 +295,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32569557" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32474804" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -327,22 +315,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/helloworld/HelloWorld.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/StringBuffer.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/StringBuffer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/JavaCollectionArrayListPractice/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaCollectionPractice/CollectionPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="122" column="47" lean-forward="true" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
-          <folding>
-            <element signature="e#4139#4140#0" expanded="true" />
-            <element signature="e#4164#4165#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/JavaCollectionArrayListPractice/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/SmallestAndLargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="168">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -353,45 +339,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/JavaCollectionPractice.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/RemoveJunk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#737#747#0" expanded="true" />
-            <marker date="1548698643336" expanded="true" signature="752:1025" ph="..." />
-            <marker date="1548698643336" expanded="true" signature="753:1025" ph="..." />
-            <marker date="1548698643336" expanded="true" signature="1035:1194" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="189">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/RemoveJunk.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="294">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/SmallestAndLargestNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/JavaCollectionPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="60">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LambdaPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ForEachPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/ForEachLoopPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -447,7 +460,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>testing</last-edited>
+          <last-edited>JavaPractice</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
