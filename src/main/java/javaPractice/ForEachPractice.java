@@ -17,7 +17,7 @@ public class ForEachPractice {
 //            System.out.println((i));
 
 //        for each loop
-       values.forEach(i -> System.out.println(i));
+//       values.forEach(i -> System.out.println(i));
 
 
 
